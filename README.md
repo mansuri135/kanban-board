@@ -28,4 +28,4 @@ To run the app, simply download the source code and open it in Android Studio. Y
 
 ## Screenshots
 
-![Screenshot](/screenshots/screenshot.png "Kanban board page")
+![Screenshot](/screenshots/screenshot.PNG "Kanban board page")
